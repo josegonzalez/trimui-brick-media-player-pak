@@ -1,0 +1,5 @@
+{
+    "label": "Media Player",
+    "launch": "launch.sh",
+    "description": "Media Player"
+}
