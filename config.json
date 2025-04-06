@@ -1,5 +1,8 @@
 {
     "label": "Media Player",
     "launch": "launch.sh",
-    "description": "Media Player"
+    "description": "Media Player",
+    "platforms": [
+        "tg5040"
+    ]
 }
