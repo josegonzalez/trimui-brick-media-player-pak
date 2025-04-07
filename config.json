@@ -2,6 +2,7 @@
     "label": "Media Player",
     "launch": "launch.sh",
     "description": "Media Player",
+    "pak_type": "tool",
     "platforms": [
         "tg5040"
     ]
