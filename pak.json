@@ -1,0 +1,13 @@
+{
+    "name": "Media Player",
+    "type": "TOOL",
+    "description": "Media Player",
+    "author": "josegonzalez",
+    "repo_url": "https://github.com/josegonzalez/minui-mediaplayer-pak",
+    "release_filename": "Media.Player.pak.zip",
+    "platforms": [
+        "tg5040"
+    ],
+    "launch": "launch.sh",
+    "version": "latest"
+}
