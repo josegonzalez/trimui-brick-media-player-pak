@@ -3,7 +3,7 @@
   "type": "TOOL",
   "description": "Media Player",
   "author": "josegonzalez",
-  "repo_url": "https://github.com/josegonzalez/minui-mediaplayer-pak",
+  "repo_url": "https://github.com/josegonzalez/trimui-brick-media-player-pak",
   "release_filename": "Media.Player.pak.zip",
   "platforms": [
     "tg5040"
