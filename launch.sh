@@ -19,6 +19,7 @@ cleanup() {
 main() {
     echo "1" >/tmp/stay_awake
     trap "cleanup" EXIT INT TERM HUP QUIT
+    chmod +x /usr/trimui/apps/player/launch.sh
     /usr/trimui/apps/player/launch.sh
 }
 
